@@ -1,0 +1,28 @@
+rohit -- checkout.html
+         order confrim.html
+         email template
+         forget and reset password.html
+
+shivkumar -- seo.html
+             ppc.html
+             social.html
+             index.html
+             login.html
+
+swarli -- orm.html
+          em.html
+          dashboard.html
+          order history.html
+          register .html    
+
+pooja -- aboutus.html
+         contactus.html
+         faq.html
+         wdd.html
+         terms.html
+         privacy.html
+         error.html
+
+image path {{ asset('frontend/brandsparkz/assets/img/bin.svg') }}
+
+
