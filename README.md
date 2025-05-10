@@ -1,3 +1,6 @@
+THIS IS A FRESH COPY OF CODERCRAFT NEED TO RUN THE FOLLOWING TO MAKE THE PROJECT RUN
+
+
 # Laravel Project Setup Guide
 
 This guide provides step-by-step instructions to set up the Laravel project, configure the database, and get everything running smoothly.
